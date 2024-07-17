@@ -19,3 +19,4 @@ The Bank Management System project demonstrates the following OOP concepts:
 - **View Account Details**: Users can view the details of their accounts.
 
 PASSWORD :1234
+<img src="https://t.bkit.co/w_6697b4a38235d.gif" />
